@@ -1,6 +1,6 @@
 {
   "name": "gulp-angular-xgettext",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Gulp plugin to extract translatable strings with angular-gettext",
   "license": "MIT",
   "repository": "gabegorelick/gulp-angular-xgettext",

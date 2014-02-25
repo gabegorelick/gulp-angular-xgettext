@@ -1,3 +1,5 @@
+# This module is deprecated. Please use [gulp-angular-gettext](https://www.npmjs.org/package/gulp-angular-gettext) instead.
+
 # [gulp](http://gulpjs.com)-angular-xgettext
 
 > Extract translatable strings into a .pot file using [angular-gettext](http://angular-gettext.rocketeer.be)
